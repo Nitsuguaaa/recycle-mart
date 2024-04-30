@@ -7,31 +7,6 @@
     size: 30px 20px;
 }
 
-nav {
-    background: white;
-    opacity: 80%;
-    
-    width: 99%;
-    height: 70px;
-    overflow: hidden;
-    position: fixed;
-    border-radius: 30px;
-    box-shadow: 2px 2px 5px gray;
-
-}
-
-#navigation {
-    float: right;
-    margin-right: 20px;
-    margin-top: 20px;
-}
-#navigation li {
-    font-family: lato;
-    display: inline-block;
-    
-    margin-left: 70px;
-}
-
 #sbar {
     border-radius: 15px;
     padding: 7px;
@@ -85,11 +60,4 @@ nav {
 #socials-hp {
     margin-top: 770px;
     margin-left: 170px;
-}
-
-#logo-hp {
-    float: left;
-    margin-top: 10px;
-    margin-left: 20px;
-    width: fit-content;
 }
