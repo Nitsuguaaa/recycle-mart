@@ -1,0 +1,95 @@
+
+
+/*navigation-bar*/
+
+#title {
+    background-color: #04AA6D;
+    size: 30px 20px;
+}
+
+nav {
+    background: white;
+    opacity: 80%;
+    
+    width: 99%;
+    height: 70px;
+    overflow: hidden;
+    position: fixed;
+    border-radius: 30px;
+    box-shadow: 2px 2px 5px gray;
+
+}
+
+#navigation {
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+#navigation li {
+    font-family: lato;
+    display: inline-block;
+    
+    margin-left: 70px;
+}
+
+#sbar {
+    border-radius: 15px;
+    padding: 7px;
+}
+
+#p1 {
+    width: 59%;
+    float: left;
+    margin-top: 40px;
+    margin-right: 10px;
+}
+
+#intro-home {
+    background-color: #dbdad6;
+    border-radius: 50px;
+}
+
+#title-hp {
+    margin-left: 20px;
+    padding-top: 20px;
+    font-size: 50px;
+}
+
+#contents-hp {
+    margin-top: -50px;
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22;
+    font-style: italic;
+    padding-bottom: 20px;
+}
+
+.pic-hp {
+    float: left;
+    width: 50%;
+}
+
+#p2 {
+    width: 40%;
+    float: left;
+    margin-top: 90px;
+
+    background-image: url("../misc/hp-pics/pic3-hp.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 860px;
+
+    border-radius: 50px;
+}
+
+#socials-hp {
+    margin-top: 770px;
+    margin-left: 170px;
+}
+
+#logo-hp {
+    float: left;
+    margin-top: 10px;
+    margin-left: 20px;
+    width: fit-content;
+}
